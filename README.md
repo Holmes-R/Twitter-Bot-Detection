@@ -32,9 +32,9 @@ The dataset used is training_data_2_csv_UTF.csv, which contains labeled Twitter 
   - If modified to 90/10, change the test_size parameter accordingly
 
 3. Machine Learning Model
-  Algorithm | Accuracy | Precision | Recall | F1 Score
-  Logistic Regression | 0.91 | 0.90 | 0.93 | 0.91
-  Decision Tree Classifier | 0.86 | 0.85 | 0.87 | 0.86
-  Random Forest Classifier | 0.93 | 0.92 | 0.94 | 0.93
-  K-Nearest Neighbors | 0.88 | 0.86 | 0.89 | 0.87
-  Gradient Boosting Classifier | 0.94 | 0.93 | 0.95 | 0.94
+  - Algorithm | Accuracy | Precision | Recall | F1 Score
+  - Logistic Regression | 0.91 | 0.90 | 0.93 | 0.91
+  - Decision Tree Classifier | 0.86 | 0.85 | 0.87 | 0.86
+  - Random Forest Classifier | 0.93 | 0.92 | 0.94 | 0.93
+  - K-Nearest Neighbors | 0.88 | 0.86 | 0.89 | 0.87
+  - Gradient Boosting Classifier | 0.94 | 0.93 | 0.95 | 0.94
